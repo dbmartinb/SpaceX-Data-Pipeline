@@ -1,8 +1,9 @@
 {
-    "account": "your_account",
-    "user": "your_username",
-    "password": "your_password",
-    "database": "db name",
-    "warehouse": "warehouse_name",
+    "account": "https://az30498.uk-south.azure.snowflakecomputing.com",
+    "user": "bigm1969",
+    "password": "Sausages1977",
+    "database": "DE_DB",
+    "warehouse": "DE_WH",
     "schema": "public"
 }
+
